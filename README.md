@@ -90,10 +90,10 @@ Aapke achhe din tabhi aayenge jab aap khud taiyaar hon! Positivity rakhna aur na
 ## Key Learnings from the Project
 
 ### 1. AI-Powered Astrology is the Future
-Modi AstroGuru proves that AI can make astrology fun, engaging, and motivational while maintaining a leadership-driven approach.
+- Modi AstroGuru proves that AI can make astrology fun, engaging, and motivational while maintaining a leadership-driven approach.
 
 ### 2. Efficient AI Model Deployment Matters
-Using Ollama + Docker for Llama 3.2 deployment ensures seamless performance and low-latency responses.
+- Using Ollama + Docker for Llama 3.2 deployment ensures seamless performance and low-latency responses.
 
 ### 3. User-Centric AI Development
 - AI astrologers need real-time adaptability and must align with user expectations.
